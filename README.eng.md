@@ -43,7 +43,7 @@ Above, we can see the comparison between the<b> Official</b> page and the <b>Clo
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS3](https://devdocs.io/css/)
 - [Media Query](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)
-- Code versioning on [GitHub](https://github.com/)
+- Code versioning on [Git](https://git-scm.com/)
 
 ## 💻 IDE
 
